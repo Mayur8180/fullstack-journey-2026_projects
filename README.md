@@ -6,3 +6,5 @@ create a personal profile webpage.
 click here to open project ->
 https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend1-project-1-personal-profile-website
 
+## Day 14 project-2
+create a IT Help Desk / Support Ticket Dashboard.
