@@ -8,3 +8,5 @@ https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend1-
 
 ## Day 14 project-2
 create a IT Help Desk / Support Ticket Dashboard.
+click to open ->
+https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend-02-project-02
