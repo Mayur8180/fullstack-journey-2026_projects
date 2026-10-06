@@ -78,7 +78,7 @@
                             <td>Email access</td>
                             <td>Account</td>
                             <td><span class="priority medium">Medium</span></td>
-                            <td><span class="status progress-status">In Progress</span></td>
+                            <td><span class="status progress">In Progress</span></td>
                         </tr>
                         <tr>
                             <td>#1022</td>
@@ -105,42 +105,40 @@
                 <form action="#" method="post">
                     <div class="data">
                         <label for="name">Employee Name</label>
-                        <br>
-                        <input type="text" placeholder="enter your name">
+                        <input type="text" id="name" name="employeeName" placeholder="enter your name">
                     </div>
                     <div class="data">
                         <label for="email">Email</label>
-                        <br>
-                        <input type="email" placeholder="Enter Email">
+                        <input type="email" id="email" name="email" placeholder="Enter Email">
                     </div>
 
                     <div class="selector">
                         <div class="field">
                             <label for="category">Issue Category</label>
                             <select id="category">
-                                <option>Hardware</option>
-                                <option>Software</option>
-                                <option>Network</option>
-                                <option>Account</option>
+                                <option value="hardware">Hardware</option>
+                                <option value="software">Software</option>
+                                <option value="network">Network</option>
+                                <option value="account">Account</option>
                             </select>
                         </div>
                         <div class="field">
                             <label for="priority">Priority</label>
 
                             <select id="priority">
-                                <option>High</option>
-                                <option>Medium</option>
-                                <option>Low</option>
+                                <option value="high">High</option>
+                                <option value="medium">Medium</option>
+                                <option value="low">Low</option>
                             </select>
                         </div>
                     </div>
 
-                    <div class="messeage">
+                    <div class="messege">
                         <div class="data">
                             <label for="description">Describe your issue</label>
                         </div>
                         <div class="mdata">
-                        <textarea id="description"
+                        <textarea id="description" name="description"
                             placeholder="My laptop's screen is flickering intermittently..."></textarea>
                             </div>
                     </div>
