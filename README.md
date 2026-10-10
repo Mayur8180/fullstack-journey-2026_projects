@@ -1,7 +1,7 @@
 # fullstack-journey-2026_projects
 complete journey project
 
-## How to Run projects.
+## How to Run projects 1,2.
 
 1. Download or clone this repository.
 2. Keep the HTML and CSS files in the same project folder.
