@@ -72,3 +72,27 @@ This is a frontend practice project. The ticket form is currently a visual form 
 I plan to improve my skills by learning JavaScript and adding more functionality to future projects.
 
 [Support Ticket Dashboard](https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend-02-project-02)
+
+ ## Day 21 project-3
+ Weekend Escape Planner
+
+A responsive travel website showcasing a weekend getaway to Goa, featuring trip details, travel information, and a budget breakdown.
+
+ Features:
+- Goa travel introduction with images
+- Trip details and information cards
+- Budget breakdown table
+- Responsive layout for mobile screens
+- Hover effects and Font Awesome icons
+
+ Technologies Used:
+- HTML5
+- CSS3
+- Flexbox
+- Media Queries
+- Font Awesome
+
+ Purpose:
+Built to practice HTML and CSS, including layouts, styling, and responsive web design.
+
+Status: Frontend practice project 🚀
