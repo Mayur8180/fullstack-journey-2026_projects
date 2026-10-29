@@ -96,4 +96,5 @@ I plan to improve my skills by learning JavaScript and adding more functionality
  Built to practice HTML and CSS, including layouts, styling, and responsive web design.
 
  Status: Frontend practice project 🚀
+ 
 [Weekend Escape Planner](https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend-03-project-03)
